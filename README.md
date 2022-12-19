@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GwennKoi 🐟
-- 👀 I’m interested in MUDs, Language Design, Procedural Content Generation, Game Design, Convention Planning, Convention Schedules
+- 👀 I’m interested in MUDs, Language Design, Procedural Content Generation, Game Design, Convention Planning
 - 🌱 I’m currently learning graph theory.
 
 <!---
